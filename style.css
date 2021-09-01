@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+/* font-family: 'Lobster Two', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+/* font-family: 'Baloo 2', cursive; */
+
+/* paleta de cores
+https://coolors.co/e63946-f1faee-a8dadc-457b9d-1d3557 */
+
+
+body{
+    background-image: url(img/sao-paulo.jpg);
+    opacity: 0.8;
+    width: 100%;
+    background-position: center ;
+    text-align: center;
+}
+
+header{
+    background-color: #a8dadc;
+    color: #1d3557; 
+    font-family: 'Lobster Two', cursive; 
+    font-size: 40px;
+    padding: 20px, auto;
+
+}
+
+main p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #1d3557;
+    margin: 10px;
+    text-align: justify;
+}
+
+main h2{
+    font-family: 'Baloo 2', cursive;
+    font-size: 40px;
+    color: #fff;
+}
+
+.lista{
+    width: 19px;
+    height: 19px;
+}
+
+main li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+
+footer{
+    background-color: #a8dadc;
+    position: bottom;
+    
+
+}
+
+.icones{
+    margin-right: 10px;
+}
+
